@@ -1,0 +1,24 @@
+html.darken *{
+	background-color:#111 !important;
+	color:#0CE86E !important;
+	border-color: #0CE86E !important;
+	outline-color: #0CE86E !important;
+}
+
+html.darken a{
+	color: SpringGreen !important;
+	background-color: Tomato !important;
+}
+
+html.darken body{
+	background: none !important;
+}
+
+html.darken li,
+html.darken ol{
+	list-style-image: none;
+}
+
+html.darken input[type=text]{
+	border-width: 1px  !important;
+}

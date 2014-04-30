@@ -1,0 +1,1 @@
+A chrome extension that darkens pages when activated. 
